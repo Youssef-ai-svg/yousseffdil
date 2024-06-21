@@ -6,13 +6,21 @@
 </div>
 <br>
 </div>
-<div align="center">
+<div align="center" >
   <h2>About Me</h2>
-  <ul>
+  <ul style="list-style:none;">
+      <li>
       👋 Hi, I’m @yousseffdil
+      </li>
+      <li>
       🌱 I’m currently learning ML
+      </li>
+      <li>
       📫 fdilyoussef@gmail.com
+      </li>
+      <li>
       👀 I love the graphic design 🖊️
+      </li>
   </ul>
 </div>
 <br>
